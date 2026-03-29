@@ -1,2 +1,42 @@
 # Melbourne-House-Price-Prediction-using-Machine-Learning
 “Machine learning model to predict house prices using real-world housing data with feature encoding and regression analysis.”
+# Melbourne House Price Prediction
+
+## Overview
+This project predicts house prices using machine learning based on various property features such as location, number of rooms, and distance from the city.
+
+## Objective
+- Build a regression model for price prediction
+- Perform data preprocessing and encoding
+- Evaluate model performance using MAE and R²
+
+## Dataset
+Melbourne Housing Dataset containing real estate data.
+
+## Features Used
+- Suburb
+- Rooms
+- Property Type
+- Distance
+- Region
+- Seller Information
+
+## Methodology
+1. Data cleaning and preprocessing
+2. Encoding categorical variables
+3. Train-test split
+4. Linear Regression model
+5. Evaluation using MAE and R²
+
+## Results
+- Achieved reasonable prediction accuracy
+- Model demonstrates relationship between property features and pricing
+
+## Tools Used
+- Python
+- Pandas
+- Scikit-learn
+- Matplotlib
+
+## Conclusion
+The model successfully predicts housing prices with moderate accuracy and demonstrates practical application of machine learning in real estate analysis.
